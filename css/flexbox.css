@@ -1,0 +1,18 @@
+.cabecalhoPrincipal .container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+.cabecalhoPrincipal-titulo{
+    display: flex;
+    
+}
+
+.cabecalhoPrincipal-nav{
+    display: flex;
+    justify-content: flex-end;
+    
+}
